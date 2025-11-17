@@ -1,0 +1,26 @@
+# Weather ETL Pipeline Requirements
+# Python dependencies for the project
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# API Requests (for future live API integration)
+requests>=2.26.0
+
+# Database (included in Python standard library)
+# sqlite3 - Built-in
+
+# Optional: For visualization and analysis
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For scheduling and automation
+schedule>=1.1.0
+
+# Development
+pytest>=6.2.0
+pylint>=2.10.0
